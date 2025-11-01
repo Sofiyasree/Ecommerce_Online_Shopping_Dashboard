@@ -1,7 +1,7 @@
 # Ecommerce_Online_Shopping_Dashboard
 An interactive Excel dashboard analyzing global e-commerce online shopping, sales performance, and payment trends using data analytics techniques.
 
-🛒 E-Commerce Customer Behavior Analysis – Excel Dashboard
+🛒 E-commerce online shopping Analysis – Excel Dashboard
 📊 Project Overview
 
 This project analyzes global e-commerce customer data using Excel to uncover insights about sales trends, customer demographics, and purchase behavior.
